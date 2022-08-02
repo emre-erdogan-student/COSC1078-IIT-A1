@@ -1249,6 +1249,9 @@ input[type="radio"] + label:before {
     align-items:center;
     justify-content: center;}
   .image.right {
+    float: right;
+    padding: 0 0em 1em 1em;
+    top: 0.25em;
     display:flex;
     align-items:center;
     justify-content: center;}
