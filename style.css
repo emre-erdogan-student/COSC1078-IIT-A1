@@ -117,13 +117,13 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #f56a6a;
+  color: white;
   text-decoration: none; }
   a:hover {
-    border-bottom-color: #f56a6a;
-    color: #f56a6a !important; }
+    border-bottom-color: white;
+    color: #BCFD4C !important; }
     a:hover strong {
-      color: inherit; }
+      color: #BCFD4C; }
 
 strong, b {
   color: #3d4449;
@@ -1244,7 +1244,10 @@ input[type="radio"] + label:before {
   .image.left {
     float: left;
     padding: 0 1.5em 1em 0;
-    top: 0.25em; }
+    top: 0.25em;
+    display:flex;
+    align-items:center;
+    justify-content: center;}
   .image.right {
     display:flex;
     align-items:center;
@@ -1286,7 +1289,8 @@ ol {
 ul {
   list-style: disc;
   margin: 0 0 2em 0;
-  padding-left: 1em; }
+  padding-left: 1em;
+color:white; }
   ul li {
     padding-left: 0.5em; }
   ul.alt {
