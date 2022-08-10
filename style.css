@@ -148,9 +148,11 @@ p {
 
 }
 
+
+
 h1, h2, h3, h4, h5, h6 {
   color: #BCFD4C;
-  font-family: "Roboto Slab", serif;
+  font-family: "Arial";
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 1em 0; }
@@ -171,7 +173,9 @@ h3 {
   font-size: 1.25em; }
 
 h4 {
-  font-size: 1.1em; }
+  font-size: 1.1em;
+   margin-top:20px;
+ margin-bottom:10px; }
 
 h5 {
   font-size: 0.9em; }
