@@ -135,7 +135,7 @@ em, i {
 p {
   margin: 1em 0 2em 0;
   color: white;
-  font-family:"Helvetica";
+  font-family:"Futura";
   text-align: justify;
 }
 
@@ -1012,7 +1012,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Roboto Slab", serif;
+  font-family: "Futura", serif;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -1529,7 +1529,7 @@ button,
   color: #f56a6a !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Roboto Slab", serif;
+  font-family: "Futura", serif;
   font-size: 0.8em;
   font-weight: 700;
   height: 3.5em;
@@ -2229,7 +2229,7 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Futura", serif;
   font-weight: 400;
   letter-spacing: 0.075em;
   list-style: none;
